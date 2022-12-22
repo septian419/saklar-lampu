@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+}
+
+.container-navbar {
+    background-color: grey;
+}
+
+
+.img-navbar {
+    background-color: red;
+}
+
+.gabut
+{
+    background-color: red;
+   
+}
+
+.open {
+    background-color: grey;
+}
+
+.jam {
+    background-color: green
+
+}
+
+
+* {
+
+	font-family: 'Montserrat', sans-serif;
+    
+	font-weight: 250;
+}
+body {
+
+}
+.penutup {
+    background-color: grey;
+}
